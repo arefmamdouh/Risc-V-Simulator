@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(44,24): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(45,28): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(47,36): warning C4018: '>': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(62,24): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(64,28): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(92,15): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(125,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(156,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(163,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(187,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(194,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(220,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(251,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(258,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(285,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(292,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(322,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(334,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(341,19): warning C4018: '<': signed/unsigned mismatch
+C:\university work\Assembly 1\Assembly project\Assembly project\main.cpp(1339,14): warning C4018: '<': signed/unsigned mismatch
+  Assembly project.vcxproj -> C:\university work\Assembly 1\Assembly project\Debug\Assembly project.exe

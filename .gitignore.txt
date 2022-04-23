@@ -1,0 +1,9 @@
+#ignore these folders
+Debug/
+Release/
+
+#ignore these types
+.vcxproj
+.filters
+.user
+.txt

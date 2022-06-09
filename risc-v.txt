@@ -1,0 +1,13 @@
+funct: li x12, 10
+li x10, 2
+jal x1, mult
+add x28, x10, x12
+sub x29, x10, x12
+beq x0, x0, exit
+mult: li x22, 7
+loop: beq x23, x22, l
+addi x10, x10, 2
+addi x23, x23, 1
+beq x0, x0, mult
+l: jalr x0, x1
+exit:

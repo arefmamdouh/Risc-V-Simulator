@@ -6,4 +6,6 @@ Release/
 .vcxproj
 .filters
 .user
-.txt
+
+*.exe
+/.vscode
